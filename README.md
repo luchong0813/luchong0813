@@ -1,5 +1,11 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=luchong0813&show_icons=true">
+
 ### Hi there 👋
 
+- 🤣 一个底层程序员(此底层非彼底层)
+- 👀 在这里分享示例代码和学习笔记
+- 🌈 平时想起来就写点[cnblogs博客园](https://www.cnblogs.com/chonglu/)
+- 🤝 持续学习，码出未来，码出希望
 <!--
 **luchong0813/luchong0813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
