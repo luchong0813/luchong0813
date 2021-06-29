@@ -1,6 +1,5 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=luchong0813&show_icons=true">
-
 ### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=luchong0813&show_icons=true">
 
 - 🤣 一个底层程序员(此底层非彼底层)
 - 👀 在这里分享示例代码和学习笔记
